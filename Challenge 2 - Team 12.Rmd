@@ -1,0 +1,28 @@
+---
+title: "Challenge 2 - Team 12"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Vendex Challenge
+## Section A - Group 8
+- Luciana
+- Matteo Augenti
+- Kiko
+- Nicolas
+- Jose Frank Cuellar
+
+```{r Initialization}
+# Clearing workspace
+rm(list = ls())
+
+library(data.table)
+library(tidyverse)
+
+# Read CSV files
+
+```
+
